@@ -70,3 +70,25 @@ Student name  1stYGrade  2ndYGrade  3rdYGrade  Avg
 StudentA      4.20       4.50       4.20       4.30
 StudentB      4.30       4.40       4.70       4.47
 StudentC      4.30       4.80       4.90       4.67
+
+
+### Exercise 5 - Print the figure
+
+Objectives
+Familiarize with:
+
+Printing data in different formats
+Fixing errors in a program
+Scenario
+Write a small program which prints a figure like the one in the Expected Output section below.
+
+Your version of the program must print the same result as the expected output. Remember, if you want to print the \ character, then you have to escape it, like this: \\.
+
+Expected output
+       ^       
+     /    \     
+   /        \   
+ <           > 
+   \        /   
+     \    /     
+       v       
