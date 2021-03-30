@@ -84,11 +84,6 @@ Write a small program which prints a figure like the one in the Expected Output 
 
 Your version of the program must print the same result as the expected output. Remember, if you want to print the \ character, then you have to escape it, like this: \\.
 
-Expected output
-       ^       
-     /    \     
-   /        \   
- <           > 
-   \        /   
-     \    /     
-       v       
+Expected output <br>
+![image](https://user-images.githubusercontent.com/63168567/112986171-8c6b4080-9137-11eb-90b3-e892d987ff7a.png)
+
