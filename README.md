@@ -28,7 +28,7 @@ Expected output
 ### Exercise 3 - Data Format
 
 Objectives
-Familiarize the student with:
+Familiarize with:
 
 Printing data in different formats
 Fixing errors in a program
