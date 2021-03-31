@@ -145,3 +145,7 @@ Value B: 4.18
 9.130000 - 4.180000 = 4.950000.
 9.130000 * 4.180000 = 38.163399.
 
+### Exercise 8 - Student Approval
+
+Receive the two grades and the frequency of two students calculate your averages and check if you are above 7 and also check if the frequencies are greater than 75 and print your average and if they have been approved
+
