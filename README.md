@@ -188,3 +188,27 @@ Sample Input
 Expected output
 Good
 
+### Atividade 10 - DO WHILE
+
+Objectives
+Familiarize the student with:
+
+Logic of loops - while
+Conditional statements
+Getting input from the user
+Integer numbers
+Printing on screen
+Scenario
+Write a program that takes two integer numbers and prints their sum. Do this until the user enters 0 (zero) (but print the last sum).
+
+Your version of the program must print the same result as the expected output.
+
+Sample Input
+1
+1
+2
+0
+
+Expected output
+Sum: 2
+Sum: 2
