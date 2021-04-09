@@ -252,3 +252,39 @@ Sample input
 
 Expected output
 1900 is not a leap year.
+
+### Atividade 12
+Objectives
+Familiarize the student with:
+
+Arrays
+Printing on screen
+Scenario
+The Fibonacci sequence is a series of natural numbers built up by this simple formula:
+
+The first Fibonacci number is equal to 1;
+The second Fibonacci number is equal to 1 too;
+The third, fourth and every subsequent Fibonacci number is equal to the sum of the two previous numbers.
+This means that the first five Fibonacci numbers look as follows:
+
+1, 1, 2, 3, 5
+
+Write a program that prints this Fibonacci sequence and two of its subsequent numbers. It should print:
+
+the first ten numbers from the Fibonacci sequence,
+then it should print only the odd numbers (1st, 3rd, 5th, 7th and 9th),
+after that, only the even numbers (2nd, 4th, 6th, 8th and 10th).
+Your version of the program must print the same result as the expected output.
+Input:
+5
+Expected output:
+1 
+1 
+2 
+3 
+5 
+1 
+1 
+3 
+5 
+2 
